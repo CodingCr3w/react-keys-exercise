@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.counter {
+  margin: 1rem auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 450px;
+  padding: 5px;
+  border-radius: 4px;
+  color: white;
+}
+
+input {
+  padding: 4px;
+}
